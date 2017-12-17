@@ -9,7 +9,7 @@ except:
 
 # settings
 timer = 300 # 5 minutes
-notify = True
+notify = False
 plugin = "pushover"
 daily = False
 hour = "09"
