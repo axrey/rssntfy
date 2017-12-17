@@ -1,0 +1,2 @@
+https://rss.packetstormsecurity.com/
+http://feeds.arstechnica.com/arstechnica/index

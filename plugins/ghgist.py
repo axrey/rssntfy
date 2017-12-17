@@ -1,0 +1,1 @@
+# goal of this plugin is to have a gist for each keyword, and append markup lines for each title/url
