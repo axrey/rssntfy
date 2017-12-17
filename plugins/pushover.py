@@ -1,4 +1,9 @@
-from pushover import init, Client
+try:
+	from pushover import init, Client
+except:
+	print("pushover missing\r\npip3 install python-pushover")
+	raise SystemExit()
+
 
 pushover_token = ""
 pushover_key = ""
